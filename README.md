@@ -4,11 +4,11 @@ Créer un template de blog
 ## Action
 Toute partie commune d'un site ne doit pas être duppliqué dans chaque page. Don't Repeat Yourself (https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas) !
 
-## Périmètre
+<!-- ## Périmètre
 - Une page d'accueil contenant des liens vers des articles
 - Une page article
 - Une page contact
-- chaque page contient : un header (commun - contient lui même un menu), un corps de page, une sidebar et un footer
+- chaque page contient : un header (commun - contient lui même un menu), un corps de page, une sidebar et un footer -->
 
 ## Améliorations possibles
 Créer un formulaire de contact (envoi de mail)  

@@ -11,19 +11,15 @@
     <?php
         include ("header.php");
     ?>
-
-    <!-- Le menu -->
-    <?php
-        include ("menu.php");
-    ?>
+    
     <!-- Le corps -->
 
     <div id="corps">
-        <h1>Sowobuna</h1>
+        <h1>Mon super site</h1>
 
         <p>
-            Parler en zoulou<br />
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iure, reiciendis debitis voluptatibus doloribus, laudantium ullam incidunt saepe quae mollitia porro, facere neque autem magni numquam cumque dolorum rerum omnis.
+            Bienvenue sur mon super site !<br />
+            Vous allez adorer ici, c'est un site génial qui va parler de... euh... Je cherche encore un peu le thème de mon site. :-D
         </p>
     </div>
 
